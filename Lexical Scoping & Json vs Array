@@ -1,0 +1,21 @@
+//JSON v/s Array
+//JSON => Javascript Object Notation used to create a collection of hetrogenous items (string,number,etc.)
+//Array => Used to create a collection of homogenous items.
+
+//Lexical Scoping or Closures =>To determines the accessibility of variables and functions within a program.
+e.g =>
+  var add = (function(){
+  var counter=0
+  return function(){return counter+=1}
+  })()
+  add // f(){return counter+=1}
+  add() // 1
+  on paranthesis removal i.e. 
+    var add = (function(){
+  var counter=0
+  return function(){return counter+=1}
+  })
+  add //var counter=0 return function(){return counter+=1}
+  add() //f(){return counter+=1}
+  add()() //1
+// D => Types of functions & use of parnthesis in the end of the above example ?
