@@ -1,0 +1,6 @@
+//Hoisting & Temporal Dead Zone
+
+Hoisting is the js default behaviour of moving all the declarations at the top of the scope/block. 
+ x=5   // initialization
+var x // Declaration
+
