@@ -1,0 +1,7 @@
+Version Control is a system helps to record all the changes made to a file / set of files so a specific version can be may be called later if needed. 
+It also take care that all the developers are working on the latest version.
+
+Benefits => Backup, Collaboration, managing & protecting the source code
+
+Best Version Control Systems => 
+GitHub, GitLab, Perforce, Beanstalk, AWS CodeCommit, Apache Subversion, Team Foundation Server, Mercurial, BitBucket, Concurrent Version Control(CVS)
