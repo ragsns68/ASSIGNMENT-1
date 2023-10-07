@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+<body>
+<p>I am <i>learning</i> about various <b>tags</b>.
+To preserve the <u>whitespaces</u> we have pre tag <pre>Its great to             know about this tag.</pre>
+<p>x<sub>1</sub></p>
+<p>x<sup>1</sup></p>
+</p>
+</body>
+</html>
+
+u -- underline
+i -- italic
+b -- bold
+pre -- to preserve the white spaces
+sub -- subscript
+sup -- superscript
