@@ -1,0 +1,21 @@
+Html : A language used to create the content of the web pages using,
+tags - keywords kept inside greater than and less than symbolos called as tags. 
+
+Structure of HTML => 
+<!Doctype html>
+<html>        ------> Opening tag (any keyword without /)
+<head>
+<title>First Web Page</title>
+</head>
+<body>
+hello world
+</body>
+</html>      -------> Closing tag (any keyword with /)
+
+HTML element - Opening and closig tag together called as HTML element.
+head tag -  is for putting title or seo related content or the content for the browser (like styles cdn urls, etc.)
+body tag -  is for putting the content which we want to be visible on the browser.
+
+
+NOTE: if there is no title tag given than the name of the html file appear as a title in the browser.
+
