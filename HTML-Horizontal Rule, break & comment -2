@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+</head>
+<body>
+<h1>Horizontal Rule, Break and Comment</h1>
+<hr/>
+
+without any tags =>
+this is paragraph1
+this is paragraph2
+<br/>
+<br/>
+with p tags =>
+<p>this is paragraph1</p>
+<p>this is paragraph2</p>
+<br/>
+with br tag =>
+<p>this is paragraph1<br/>
+this is paragraph2</p>
+
+//Commented code in html file won't able to see in the browser
+<!--
+<p>this is paragraph1<p>
+<p>this is paragraph2<p>
+-->
+
+</body>
+</html>
