@@ -1,4 +1,4 @@
-<table border='5'>
+<table border='5' cellpadding="10px" cellspacing="10px">
 <tr>
 <th rowspan="5">Cast</th>
 </tr>
@@ -18,3 +18,7 @@
 <td>Bhandari</td>
 </tr>
 </table>
+
+//border - outside line layout.
+//cellpadding - space between the content and border of the cells.
+//cellspacing - space b/w the cells
