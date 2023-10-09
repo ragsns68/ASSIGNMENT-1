@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+</head>
+<body>
+<h1>A Friend In Need is a Friend indeed</h1>
+<hr/>
+<!--Image tags -->
+<img src="friends.jpg" alt="Friends Image" width="350px" height="250px" />
+<img src="friends.jpg" alt="Friends Image" style="width:"350px;height:250px" />
+
+<!--Link tags -->
+<p><a href="https://www.britannica.com/topic/friendship">Click here, to know more about friends</a></p>    // for wikipedia content
+<p><a href="MyFirstWebPage-Hello World.html">Go To Hello World page</a></p>   // for local content
+
+</body>
+</html>
+
+--> friends.jpg coming from the local folder placed at same location where my code html file is placed.
+
+NOTE 1 : Different image size(width & height) is rendered while using different ways of adjusting width & height
+<img src="friends.jpg" alt="Friends Image" style="width:"350px;height:250px" /> 
+in browser => width: 212 & height: 238
+<img src="friends.jpg" alt="Friends Image" width="350px" height="250px" />
+in browser => same as given
+
+NOTE 2 : 
+<p id="friendship">Click here, to know more about friends</a></p>
+To Bookmark from some other file
+<p><a href="index.html#friendship">Click here, to know more about friends</a></p>
+To Bookmark from same file
+<p><a href="#friendship">Click here, to know more about friends</a></p>
