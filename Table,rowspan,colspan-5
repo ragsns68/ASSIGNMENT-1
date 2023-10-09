@@ -1,0 +1,20 @@
+<table border='5'>
+<tr>
+<th rowspan="5">Cast</th>
+</tr>
+<tr>
+<th colspan="2">Names</th>
+</tr>
+<tr>
+<th>Firstname</th>
+<th>Lastname</th>
+</tr>
+<tr>
+<td>Ragini</td>
+<td>Jain</td>
+</tr>
+<tr>
+<td>Shweta</td>
+<td>Bhandari</td>
+</tr>
+</table>
