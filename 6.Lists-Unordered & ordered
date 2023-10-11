@@ -1,0 +1,37 @@
+<!Doctype html>
+<html>
+<head>
+
+</head>
+<body>
+<h3>Grocery List</h3>
+<ul>                                //Unordered Lists
+<li>Cucumber</li>
+<li>Pineapple</li>
+<li>Jaggery</li>
+</ul>
+<h3>With type attribute</h3>
+<ul type="circle">
+<li>Cucumber</li>
+<li>Pineapple</li>
+<li>Jaggery</li>
+</ul>
+</body>
+</html>
+
+NOTE: Default value for type attribute of unordered list is bullet disc.
+Possible options for types are => disc,circle,square,none
+
+<ol>                        //Ordered Lists
+<li>Enter the matrix</li>
+<li>Matrix reloaded</li>
+<li>Matrix revolutions</li>
+</ol>
+
+<ol type="A">                     
+<li>Enter the matrix</li>
+<li>Matrix reloaded</li>
+<li>Matrix revolutions</li>
+</ol
+NOTE: Default value for type attribute of unordered list is bullet 1. (1,2,3,...)
+Possible options for types are => 1,A,a,I,i (I,i are roman numnerals)
