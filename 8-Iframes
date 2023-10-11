@@ -1,0 +1,7 @@
+Use Cases of iframe are =>
+
+1. For embedding some other web page inside another web page<br/>
+<iframe src="lists.html" width="400px" height="500px"></iframe><br/>
+
+2. For embedding any video (especially from youtube)<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOua_-NMQvA?si=dCpBcdLQwBFpIoc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
