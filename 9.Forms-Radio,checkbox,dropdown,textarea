@@ -1,0 +1,18 @@
+Forms are used to take the input from an user and process the input using some scripting language.
+<form>
+Username : <input type="text" name="uname" size="3" maxlegth="5'/>
+Password : <input type="password" name="upass" />
+Gender : <input type="radio" name="gender" value="male" checked/>Male
+         <input type="radio" name="gender" value="female"/>Female
+Course : <input type"checkbox" name="course" value="HTML" checked/>HTML
+         <input type"checkbox" name="course" value="CSS" checked/>CSS
+Age Group : <select name="age">
+<option>10-20</option>
+<option>20-30</option>
+<option>30-40</option>
+<option>40-50</option>
+</select>
+Comments : <textarea name="comments" rows="5" cols="10"></textarea>
+</form>
+
+NOTE: As default for radio and checkbox none came as selected, to opt for any option to come as selected we uses checked property.
