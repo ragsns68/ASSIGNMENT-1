@@ -1,0 +1,25 @@
+//Definition Lists
+<dl>
+<dt>HTML</dt>
+<dd>Hyper Text Markup Language</dd>
+<dt>CSS</dt>
+<dd>Cascading Style Sheet</dd>
+</dl>
+
+
+//Nested lists
+<ul>
+<li>HTML</li>
+<ol>
+<li>Hyper</li>
+<li>Text</li>
+<li>Markup</li>
+<li>Language</li>
+</ol>
+<li>CSS</li>
+<ol>
+<li>Cascading</li>
+<li>Style</li>
+<li>Sheets</li>
+</ol>
+</ul>
