@@ -12,7 +12,7 @@ hello world
 </body>
 </html>      -------> Closing tag (any keyword with /)
 
-HTML element - Opening and closig tag together called as HTML element.
+HTML element - Opening and closing tags together called as HTML element.
 head tag -  is for putting title or seo related content or the content for the browser (like styles cdn urls, etc.)
 body tag -  is for putting the content which we want to be visible on the browser.
 
