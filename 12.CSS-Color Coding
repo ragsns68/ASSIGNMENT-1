@@ -1,0 +1,15 @@
+<style type="text/css">
+p{
+color:red; or color:#ff0000; or color:rgb(0,0,255);
+}
+</style>
+
+NOTE:
+1. 
+#ff0000 => This 6 digit is an hexadecimal number, ff placed at first 2 position stands for red color, 
+#ff0000 => red
+#00ff00 => green
+#0000ff => blue
+
+2.
+rgb stands for red, green, blue where 255 is the maximum value for blue color and as we don't need red and green first and second parameters are 0. 
