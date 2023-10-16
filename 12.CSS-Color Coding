@@ -1,6 +1,6 @@
 <style type="text/css">
 p{
-color:red; or color:#ff0000; or color:rgb(0,0,255);
+color:red; or color:#ff0000; or color:rgb(0,0,255); or color: rgb(128,255,255);
 }
 </style>
 
