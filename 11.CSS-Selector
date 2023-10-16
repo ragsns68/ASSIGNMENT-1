@@ -1,0 +1,14 @@
+=> Cascading Style Sheet (CSS)
+<head>
+<style type="text/css">
+selector{                              
+property:value;                   
+}
+</style>
+</head>
+<body>
+</body>
+
+e.g p{
+color:red;
+}
