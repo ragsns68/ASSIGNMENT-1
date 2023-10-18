@@ -1,0 +1,12 @@
+<style type="text/css">
+h1{
+color: red; //color of the font will change to red
+text-align:left; //values-left,right,center,justify (to end the sentence at same position ends.)
+line-height:1; //space above and below the inline elements
+letter-spacing:10px //space b/w the letters
+word-spacing:50px; //space b/w the words
+}
+</style>
+<body>
+<h1>This is red.</h1>
+</body>
