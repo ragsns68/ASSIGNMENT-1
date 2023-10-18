@@ -1,0 +1,13 @@
+<head>
+<style type="text/css">
+p{
+font-family:Georgia,Verdana,Serif;  //values of font-family can be placed as multiple so that if the first won't get supported than the second one it will take and so on..
+font-style:oblique; //values- italic,oblique
+font-size:24px;
+font-weight:bold; //values - bold, bolder, light, lighter, normal : it is the thickness of the letters
+}
+</style>
+</head>
+<body>
+<p>This is a text</p>
+</body>
