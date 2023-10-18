@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+body{
+background-color:"#ff0000";
+background-image:url("friend.jpg");
+//if the background-image is small than it gets repeated on the screen , for stopping it from repeating we can use the below properties=>
+background-repeat:no-repeat; (possible values can be repeat-x,repeat-y,no-repeat)
+background-position: 50px 100px; (position from x is 50px and y is 100px)
+background-attachment:fixed; (in case of even more content the position of image is fixed)
+}
+</style>
+</head>
+<body></body>
+</html>
