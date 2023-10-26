@@ -1,0 +1,21 @@
+<head>
+<style type="text/css">
+a:link{
+color:red;
+}
+a:hover{
+color:green;
+}
+a:visited{
+color:brown;
+}
+a:active{
+color:pink;
+}
+</style>
+</head>
+<body>
+<h1><a href="https://www.youtube.com">Click Here</a></h1>
+</body>
+
+NOTE: In chrome its working as expected but when tried in edge its not showing up the right colors.
