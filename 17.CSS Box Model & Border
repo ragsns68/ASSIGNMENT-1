@@ -1,0 +1,15 @@
+1. Every html element is embedded into a box which has 4 layers (content, padding, border, margin).
+h1{
+border-style:solid; (dashed,dotted,solid,(inset,outset-3D View))
+border-width:5px;
+border-color:red;
+border-left-color:green;
+border-bottom-color:orange;
+
+}
+<h1>Box Model</h1>
+
+
+NOTE: Border shorthand notation =>
+border:5px solid blue;
+i.e. border: border-width border-style border-color;
