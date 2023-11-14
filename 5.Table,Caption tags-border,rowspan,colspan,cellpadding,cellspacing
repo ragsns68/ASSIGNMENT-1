@@ -1,3 +1,13 @@
+<head>
+<style type="text/css">
+tr{
+background-color:orange;
+}
+td{
+color:white;
+}
+</style>
+</head>
 <table border='5' cellpadding="10px" cellspacing="10px">
 <caption>Cast of friends</caption>
 <tr>
@@ -23,3 +33,4 @@
 //border - outside line layout.
 //cellpadding - space between the content and border of the cells.
 //cellspacing - space b/w the cells
+NOTE: Any property applied to td tag is an addition to the property of tr tag, td tag inherits the property from tr tag.
