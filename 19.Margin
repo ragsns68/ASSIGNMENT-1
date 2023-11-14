@@ -1,0 +1,3 @@
+Margin=>To create a space around the element
+margin can also be set as negative value.
+margin:25px;
