@@ -1,0 +1,15 @@
+span => used to provide style to an part of the text., An inline element.
+div=> used to define a section in an html document., An block element.
+e.g => 
+span{
+font-size:28px;
+color:lightgreen;
+}
+div{
+color:orange;
+}
+<div>
+<p>This is <span>HTML and CSS</span></p>
+</div>
+
+NOTE: span tag takes the precedence over div tag hence the color for the text HTML and CSS will come as lightgreen only.
