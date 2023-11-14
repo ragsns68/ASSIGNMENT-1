@@ -1,0 +1,7 @@
+Padding=> The space b/w the content and the border.
+
+padding:25px; => 25px of space on top, bottom,left and right b/w content and the border,
+
+padding: 25px 50px 75px 100px; => 25px-padding-top,50px-padding-right,75px-padding-bottom,100px-padding-left 
+
+NOTE: As h1(for eg.) is an block element hence we may not be able to see the padding of 25px on its right side.
