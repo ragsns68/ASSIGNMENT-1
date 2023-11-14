@@ -33,4 +33,4 @@ color:white;
 //border - outside line layout.
 //cellpadding - space between the content and border of the cells.
 //cellspacing - space b/w the cells
-NOTE: Any property applied to td tag is an addition to the property of tr tag, td tag inherits the property from tr tag.
+NOTE: Any property applied to td tag is an addition to the property of tr tag, td tag inherits the property from tr tag. (tr tag property takes the precedence over td tag.)
